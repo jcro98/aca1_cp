@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ACA 1 · Computación en la Nube — RAG clínico con Ollama + Supabase pgvector
 
 Pipeline de ingesta, chunking, **embeddings locales (EmbeddingGemma vía Ollama)** y búsqueda semántica sobre **Supabase + pgvector**.
@@ -72,3 +73,6 @@ ESP-rag/
 | Embeddings e indexación (20 %) | Secciones 1 y 5: EmbeddingGemma vía Ollama con prefijos de tarea, lotes de 32, batch upsert idempotente |
 | Validación de búsqueda semántica (15 %) | Secciones 6 y 7: Top-k, similitud coseno, Hit@1/Hit@5, MRR, control negativo, latencia |
 | Póster (15 %) y video (10 %) | `GUION_VIDEO.md` |
+=======
+# aca1_cp
+>>>>>>> 2fee74405ea672c963eadaf3474b5224638c18b7
