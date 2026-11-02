@@ -1,0 +1,10 @@
+requests
+psycopg[binary]
+pgvector
+langchain-text-splitters
+pypdf
+python-dotenv
+pandas
+numpy
+matplotlib
+jupyterlab
