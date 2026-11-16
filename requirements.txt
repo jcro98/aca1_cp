@@ -1,3 +1,4 @@
+# --- ACA 1: ingesta, embeddings locales y base vectorial ---
 requests
 psycopg[binary]
 pgvector
@@ -8,3 +9,6 @@ pandas
 numpy
 matplotlib
 jupyterlab
+# --- ACA 2: LLM en la nube e interfaz gráfica ---
+google-genai>=1.0
+streamlit>=1.42
